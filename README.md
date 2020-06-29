@@ -3,7 +3,7 @@ Diseño aplicación creación de Documentos
 
 ## Arquitectura Propuesta
 
-
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/Diagrama%20en%20blanco.svg)
 
 
 
