@@ -13,10 +13,10 @@ Toda la arquitectura sobre contenedores Docker para una escalabilidad limpia y f
 ```
 
 Mas información en: 
-https://www.linode.com
-https://mariadb.org/
-https://www.docker.com/
-https://spring.io/projects/spring-boot
+* https://www.linode.com
+* https://mariadb.org/
+* https://www.docker.com/
+* https://spring.io/projects/spring-boot
 
 
 
