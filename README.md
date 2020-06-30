@@ -27,5 +27,8 @@ Mas información en:
 * Aplicación permite listar, almacenar y modificar datos de clientes existentes 
 * Aplicación realiza la descarga de documentos , la creación y envío automatico a través de correo electronico
 
+## Tiempos de Proyecto (Spring de 8 días)
+
+
 
 
