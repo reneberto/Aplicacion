@@ -19,6 +19,9 @@ Mas información en:
 * https://www.docker.com/
 * https://spring.io/projects/spring-boot
 
+## Diagrama Uso Aplicación (versión inicial)
+
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/Diagramaflujo.png)
 
 
 
