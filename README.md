@@ -27,7 +27,20 @@ Mas información en:
 * Aplicación permite listar, almacenar y modificar datos de clientes existentes 
 * Aplicación realiza la descarga de documentos , la creación y envío automatico a través de correo electronico
 
-## Tiempos de Proyecto (Spring de 8 días)
+## Tiempos de Proyecto (Sprint de 8 días)
+
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/DiagramaProyecto.jpeg)
+
+## Consideraciones
+
+* Código fuente es propiedad de Megaservi
+* Cambios de alcance afectos a cambios en presupuesto
+* Capacitación de uso , instalación y cambios no consideradas en los tiempos de proyecto (Sprint) , pero se incluyen en el Proceso.
+* Se utilizarán herramientas como "Trello" para la comunicación , creación de tareas y responsabilidades.
+
+
+
+
 
 
 
