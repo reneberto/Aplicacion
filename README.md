@@ -31,6 +31,12 @@ Mas información en:
 
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/DiagramaProyecto.jpeg)
 
+## Mockup Aplicacion
+
+
+
+
+
 ## Consideraciones
 
 * Código fuente es propiedad de Megaservi
