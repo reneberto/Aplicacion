@@ -59,3 +59,10 @@ Creación , búsqueda y modificación de Clientes
 Creación de Documentos asociados por búsqueda de cliente , descarga del documento y envío
 a través de correo electrónico
 ```
+
+## Consideraciones
+
+* Código fuente es propiedad de Megaservi
+* Cambios de alcance afectos a cambios en presupuesto
+* Capacitación de uso , instalación y cambios no consideradas en los tiempos de proyecto (Sprint) , pero se incluyen en el Proceso.
+* Se utilizarán herramientas como "Trello" para la comunicación , creación de tareas y responsabilidades.
