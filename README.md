@@ -10,7 +10,8 @@ Se utilizará un servidor en la nube en este caso se propone un linode Caracteri
 * Los datos serán almacenados en una base de datos mariaDb(relacional) , se creará el modelo de datos segun necesidad , estos datos son almacenados en un volumen persistente.
 * El acceso a datos se realizará mediante servicios Api Rest utilizando JSON desarrollados con Java Spring boot , el consumo de estos servicios se realizará en un frontend (aplicación web) la cual se encontrará dispobible desde cualquier dispositivo con acceso a Internet.
 ```
-Toda la arquitectura sobre contenedores Docker para una escalabilidad limpia y facil migración en caso de ser necesario
+Toda la arquitectura sobre contenedores Docker para una escalabilidad limpia 
+y facil migración en caso de ser necesario
 ```
 
 Mas información en: 
@@ -33,7 +34,13 @@ Mas información en:
 
 ## Mockup Aplicacion
 
+Login:
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/login.jpeg)
 
+```
+Ingreso Controlado por Usuario y Contraseña
+```
+Menu Principal
 
 
 
