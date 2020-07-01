@@ -35,21 +35,25 @@ Mas información en:
 ## Mockup Aplicación
 
 * Login:
+
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/login.jpeg)
 ```
 Ingreso Controlado por Usuario y Contraseña
 ```
 * Menu Principal:
+
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/principal.jpeg)
 ```
 Selección de Clientes y Documentos
 ```
-* Clientes
+* Clientes:
+
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/Clientes.jpeg)
 ```
 Creación , búsqueda y modificación de Clientes
 ```
-* Documento
+* Documento:
+
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/Documentos.jpeg)
 ```
 Creación de Documentos asociados por búsqueda de cliente , descarga del documento y envío
