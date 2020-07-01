@@ -42,7 +42,7 @@ Ingreso Controlado por Usuario y Contraseña
 ```
 * Menu Principal:
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/principal.jpeg)
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/Principal.jpeg)
 ```
 Selección de Clientes y Documentos
 ```
