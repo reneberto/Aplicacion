@@ -28,41 +28,28 @@ Mas información en:
 * Aplicación permite listar, almacenar y modificar datos de clientes existentes 
 * Aplicación realiza la descarga de documentos , la creación y envío automático a través de correo electrónico
 
+## Pantillas de admin 
+
+* https://www.akveo.com/ngx-admin/pages/dashboard
+* https://adminlte.io/themes/AdminLTE/index2.html
+
 ## Tiempos de Proyecto (Sprint de 8 días)
 
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/DiagramaProyecto.jpeg)
 
-## Mockup Aplicación
-
-* Login:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/login.jpeg)
-```
-Ingreso Controlado por Usuario y Contraseña
-```
-* Menu Principal:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Principal.jpeg)
-```
-Selección de Clientes y Documentos
-```
-* Clientes:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Clientes.jpeg)
-```
-Creación , búsqueda y modificación de Clientes
-```
-* Documento:
-
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/Documentos.jpeg)
-```
-Creación de Documentos asociados por búsqueda de cliente , descarga del documento y envío
-a través de correo electrónico
-```
 
 ## Consideraciones
 
-* Código fuente es propiedad de Megaservi
+* Código fuente es propiedad de Esigsa
 * Cambios de alcance afectos a cambios en presupuesto
 * Capacitación de uso , instalación y cambios no consideradas en los tiempos de proyecto (Sprint) , pero se incluyen en el Proceso.
 * Se utilizarán herramientas como "Trello" para la comunicación , creación de tareas y responsabilidades.
+
+## Entregables
+
+* Documento de Diseño.
+* Software instalado y funcionando en Cloud
+* el código fuente y el modelo de Base de Datos.
+* Manual de Usuario.
+
+
