@@ -1,5 +1,5 @@
-# Aplicación Generación de Documentos Megaservi
-Diseño aplicación creación de Documentos 
+# Aplicación Creación Cotizaciones 
+Diseño aplicación creación de cotizaciones 
 
 ## Arquitectura Propuesta
 
