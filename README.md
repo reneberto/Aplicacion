@@ -37,6 +37,8 @@ Mas información en:
 
 ## Tiempos de Proyecto (Sprint de 14 días)
 
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/gantt.png)
+
 
 
 
