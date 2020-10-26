@@ -22,7 +22,7 @@ Mas información en:
 
 ## Diagrama Uso Aplicación (versión inicial)
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/flujo.jpeg)
+![alt text](https://github.com/reneberto/Aplicacion/blob/master/flujoprincipal.png)
 
 * Aplicación con control de credenciales , no se contempla administración de usuarios en caso de ser necesario se puede agregar.
 * Aplicación permite listar, almacenar y modificar datos de clientes existentes 
