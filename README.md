@@ -1,4 +1,4 @@
-# Aplicación Creación Cotizaciones 
+# Aplicación Creación Cotizaciones Esigsa
 Diseño aplicación creación de cotizaciones 
 
 ## Arquitectura Propuesta
@@ -24,18 +24,21 @@ Mas información en:
 
 ![alt text](https://github.com/reneberto/Aplicacion/blob/master/flujoPrincipal.png)
 
-* Aplicación con control de credenciales , no se contempla administración de usuarios en caso de ser necesario se puede agregar.
-* Aplicación permite listar, almacenar y modificar datos de clientes existentes 
-* Aplicación realiza la descarga de documentos , la creación y envío automático a través de correo electrónico
+* Aplicación con control de credenciales.
+* Aplicación permite listar, almacenar y modificar datos de Productos 
+* Aplicación realiza la creación y descarga de documentos
+* Aplicación expone servicio para la carga de productos
+* Aplicación permite la creación de tableros y su asignación a una cotización 
 
 ## Pantillas de admin 
 
 * https://www.akveo.com/ngx-admin/pages/dashboard
 * https://adminlte.io/themes/AdminLTE/index2.html
 
-## Tiempos de Proyecto (Sprint de 8 días)
+## Tiempos de Proyecto (Sprint de 14 días)
 
-![alt text](https://github.com/reneberto/Aplicacion/blob/master/DiagramaProyecto.jpeg)
+
+
 
 
 ## Consideraciones
